@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+#root {
+    margin: auto;
+    max-width: 600px;
+}
+
+.completed {
+    color: #999;
+    text-decoration: line-through;
+}
