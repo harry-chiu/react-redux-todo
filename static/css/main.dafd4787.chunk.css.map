@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AACA,MACI,WAAY,CACZ,eACJ,CAEA,WACI,UAAW,CACX,4BACJ","file":"main.dafd4787.chunk.css","sourcesContent":["@import '~antd/dist/antd.css';\n#root {\n    margin: auto;\n    max-width: 600px;\n}\n\n.completed {\n    color: #999;\n    text-decoration: line-through;\n}"]}
